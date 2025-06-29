@@ -202,7 +202,7 @@ h1 .en-name {
 .timeline-item::before {
     content: '';
     position: absolute;
-    left: -44px; /* padding-left + border-width/2 */
+    left: -52px; /* padding-left + border-width/2 */
     top: 5px;
     width: 15px;
     height: 15px;
